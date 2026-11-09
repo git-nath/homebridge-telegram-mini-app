@@ -1,6 +1,12 @@
 # HomeBridge Telegram Mini App
 
 HomeBridge connects renters with brokers who post homes for rent. It is built with React, TypeScript, and Vite, and includes Telegram Mini App initialization with a browser fallback for local development.
+
+## Try the app
+
+[Open the live demo](https://mini-app-two-xi.vercel.app/)
+
+The demo runs in your browser, so you can explore the app without installing dependencies or building it locally.
 <table>
   <tr>
     <td width="25%"><img src="1%20%282%29.png" alt="Screenshot 1"/></td>
